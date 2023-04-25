@@ -1,3 +1,5 @@
+/* Estilos para o tema escuro */
+
 * {
   box-sizing: border-box;
 }
@@ -45,6 +47,7 @@ main {
 h1 {
   text-align: center;
   margin-bottom: 40px;
+  color: #fff; /* Adicionado cor de texto para o tema escuro */
 }
 
 .jobs {
@@ -64,6 +67,7 @@ h1 {
 .job-item h2 {
   margin-top: 20px;
   font-size: 1.5rem;
+  color: #fff; /* Adicionado cor de texto para o tema escuro */
 }
 
 .job-item p {
