@@ -3,14 +3,14 @@
 }
 
 body {
-  background-color: #2E2E2E;
+  background-color: #050505;
   font-family: sans-serif;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #565656;
+  background-color: #2b2b2b;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -45,6 +45,7 @@ main {
 h1 {
   text-align: center;
   margin-bottom: 40px;
+  color: white;
 }
 
 .jobs {
@@ -89,4 +90,8 @@ h1 {
   font-size: 20px;
   text-decoration: none;
   color: #2E2E2E;
+}
+
+h2 {
+  color: white;
 }
